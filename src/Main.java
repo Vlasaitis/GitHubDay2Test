@@ -11,5 +11,6 @@ public class Main {
     }
     public static void secondary() {
         System.out.println("Addition");
+        System.out.println("ff");
     }
 }
