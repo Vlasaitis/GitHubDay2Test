@@ -7,5 +7,9 @@ public class Main {
     }
     public static void newFeature(){
         System.out.println("New");
+        secondary();
+    }
+    public static void secondary() {
+        System.out.println("Addition");
     }
 }
