@@ -3,5 +3,9 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("First change");
         System.out.println("Compromise");
+        newFeature();
+    }
+    public static void newFeature(){
+        System.out.println("New");
     }
 }
